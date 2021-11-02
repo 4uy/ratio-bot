@@ -1,5 +1,5 @@
 # ratio-bot
-Discord bot that can ratio specified users. Really garbage code but ¯\_(ツ)_/¯.
+Discord bot that can ratio specified users. Really garbage code but ¯\\\_(ツ)\_/¯.
 
 ## Setup
 1. Clone the repo.
