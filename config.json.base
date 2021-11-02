@@ -1,0 +1,4 @@
+{
+    "token": "token",
+    "to_ratio": ["discord_id_one", "discord_id_two"]
+}

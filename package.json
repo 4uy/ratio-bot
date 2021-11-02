@@ -1,0 +1,17 @@
+{
+  "name": "ratio-bot",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "node ."
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/divinitybot/bot/issues"
+  },
+  "homepage": "https://github.com/divinitybot/bot#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
